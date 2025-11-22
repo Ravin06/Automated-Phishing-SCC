@@ -109,7 +109,7 @@ Feel free to contribute to this project! If you have ideas or improvements, open
 - SMS and Voice Phishing after phone number OSINT
 - Spoofing 3rd party instead of DBS itself
 - Adding muraena as a phishing tool instead of coding my own phishing website 💀
-- Possibly using local llm in the case gemini sends "i cant do this because it violates policy"
+- Prompt injecting Google Gemini for Workspace (https://0din.ai/blog/phishing-for-gemini)  
 and more!
 
 ## Disclaimer
